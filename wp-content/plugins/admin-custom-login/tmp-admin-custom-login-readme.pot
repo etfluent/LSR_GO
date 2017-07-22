@@ -1,0 +1,461 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Customize WordPress Login Page"
+msgstr ""
+
+#. Short description.
+msgid "Customize Your WordPress Login Screen Amazingly - Add Own Logo, Background Sideshow, Social Link Connectivity, Customize Login Form Positions, Backgro"
+msgstr ""
+
+#. Screenshot description.
+msgid "Custom Login Page Preview"
+msgstr ""
+
+#. Screenshot description.
+msgid "Demo 2"
+msgstr ""
+
+#. Screenshot description.
+msgid "Demo 3"
+msgstr ""
+
+#. Screenshot description.
+msgid "Demo 4"
+msgstr ""
+
+#. Screenshot description.
+msgid "Demo 5"
+msgstr ""
+
+#. Screenshot description.
+msgid "Social Link Up"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin Settings layout"
+msgstr ""
+
+#. Screenshot description.
+msgid "Admin Settings layout 2"
+msgstr ""
+
+#. Found in description header.
+msgid "Background Slide Show:"
+msgstr ""
+
+#. Found in description header.
+msgid "Social Link Connectivity:"
+msgstr ""
+
+#. Found in description header.
+msgid "Slide Show Animation Effect:"
+msgstr ""
+
+#. Found in description header.
+msgid "Powerful And Easy Setting Panel:"
+msgstr ""
+
+#. Found in description header.
+msgid "Responsive Design:"
+msgstr ""
+
+#. Found in description header.
+msgid "Google Font Integrated:"
+msgstr ""
+
+#. Found in description header.
+msgid "Unlimited Colour Scheme:"
+msgstr ""
+
+#. Found in description header.
+msgid "<strong>Admin Demo</strong>"
+msgstr ""
+
+#. Found in description header.
+msgid "Translations By Our Plugin Users:"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add Your Own Custom Logo On Login Form"
+msgstr ""
+
+#. Found in description list item.
+msgid "Background Colour"
+msgstr ""
+
+#. Found in description list item.
+msgid "Background Image"
+msgstr ""
+
+#. Found in description list item.
+msgid "Background Image Slide Show"
+msgstr ""
+
+#. Found in description list item.
+msgid "Login Form Position"
+msgstr ""
+
+#. Found in description list item.
+msgid "Login Form Colour"
+msgstr ""
+
+#. Found in description list item.
+msgid "Login Form Colour Opacity"
+msgstr ""
+
+#. Found in description list item.
+msgid "Login Form Font Colour"
+msgstr ""
+
+#. Found in description list item.
+msgid "Login Form Font Size"
+msgstr ""
+
+#. Found in description list item.
+msgid "Login Form Button Colour"
+msgstr ""
+
+#. Found in description list item.
+msgid "Login Form Button Size"
+msgstr ""
+
+#. Found in description list item.
+msgid "Login Form Background"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add Social Media Icon On Login Form"
+msgstr ""
+
+#. Found in description list item.
+msgid "Social Media Icon Colour"
+msgstr ""
+
+#. Found in description list item.
+msgid "Social Media Icon Size"
+msgstr ""
+
+#. Found in description list item.
+msgid "Interactive Plugin Dashboard"
+msgstr ""
+
+#. Found in description list item.
+msgid "Customize Login Form Positions"
+msgstr ""
+
+#. Found in description list item.
+msgid "Twitter"
+msgstr ""
+
+#. Found in description list item.
+msgid "Facebook"
+msgstr ""
+
+#. Found in description list item.
+msgid "Linkedin"
+msgstr ""
+
+#. Found in description list item.
+msgid "Google+"
+msgstr ""
+
+#. Found in description list item.
+msgid "Pinterest"
+msgstr ""
+
+#. Found in description list item.
+msgid "Youtube"
+msgstr ""
+
+#. Found in description list item.
+msgid "Flickr"
+msgstr ""
+
+#. Found in description list item.
+msgid "Digg"
+msgstr ""
+
+#. Found in description list item.
+msgid "Tumblr"
+msgstr ""
+
+#. Found in description list item.
+msgid "Vkontakte"
+msgstr ""
+
+#. Found in description list item.
+msgid "skype"
+msgstr ""
+
+#. Found in description list item.
+msgid "Instagram"
+msgstr ""
+
+#. Found in description list item.
+msgid "Italian(it_IT) by <a href=\"http://giovannicaputo.netsons.org\">Giovanni Caputo</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "Hindi(hi_HI) by <a href=\"http://infigosoft.com\">Infigo Software</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "German(de_DE) or Deutsch by Markus Petautschnig aka X00LA"
+msgstr ""
+
+#. Found in description list item.
+msgid "Portuguese(pt_BR) by An User"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Admin custom login plugin give ability to customize your WordPress admin login page according to you."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Pugin allows to change background color, background image, background slide show, login form color, login form font size, login form position, add social media icon on form and many more features."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Live Demo:</strong> <a href=\"http://demo.weblizar.com/admin-custom-login/wp-admin\">Admin Custom Login Live Demo</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Guys please send us your login screenshots at <code>lizarweb[at]gmail[dot]com</code>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Standard Features</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This is our most key feature of this plugin. We have provide you our best to add slide show on your custom login background without any hesitation."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "In this plugin you will able to add social icon to link your social profile with your login form. Social profiles names are"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "We have provide you 4 types of animation in background slide show"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "PLugin Setting Panel very simple and user friendly. There your able to design your login page without any hesitation."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Plugin Design is totally mobile compatible."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Plugin is integrated with 500+ google fonts. So add beautiful font styles fro you form panel."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Theere you able update plugin design with unlimited colours. Colour option is available for both login form panel and background"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"<a href=\"http://demo.weblizar.com/admin-custom-login-admin-demo/wp-admin\">Admin Demo</a>\n"
+"  <strong>Username:</strong> userdemo\n"
+"  <strong>Password:</strong> userdemo"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you have any question contact us at here: <a href=\"http://wordpress.org/support/plugin/admin-custom-login\">Plugin Support Forum </a>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the entire <strong>admin-custom-login</strong> folder to the <strong>/wp-content/plugins/</strong> directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the <strong>Plugins</strong> menu in WordPress admin."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to the under Setting menu -&gt; Admin Custom Login plugin sub menu page."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Start customizing your admin login form."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatible and Tested upto WordPress 4.5"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Portuguese language translation added "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hard-coded input box place holder value has been removed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sorry!!! it was accidentally remain into code by developer during testing a language conversion issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Opacity &amp; Background issue fixed removed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Font Awesome Library Updated"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "small updates"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add Social Media Option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Login Form Position Setting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small code update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Font Awesome Library update (update google+ icon)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove Upload image issue for old wordpress version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove Upload image issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatible With WordPress 4.4 version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update css file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add German(Deutsch) language translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resolved Font Issue"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resolved Spelling Mistake"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add Italian language translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add Export Import Setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increase Logo Width and Height Upto 500px."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug Fix of 'Background SlideShow' not working in Lost your password page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug Fix of Inner Social Icon not working in Lost your password page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug Fix of Background Image Strech."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove Problem of Social Connectivity."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug Fix of not converting Username and Password on language."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Move \"Admin Custom Login\" under \"settings\" menu."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Input box Icon colour changed on changing input box text colour."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove the bug of log-in form background opacity."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Set proper alignment of logo image on login form floating left or right"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Set proper alignment of links on right floating of log-in form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increase spacing between \"remember me\" option and social label."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Compatible with WordPress 4.2 version"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove preview option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add help section."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resolve issue loading the fonts with SSL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Resolved Logo preview issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Setting panel icon now visible on first installation. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "This is first and basic version of slider plugin."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "For more information, see <a href=\"http://wwww.weblizar.com/\">Weblizar</a>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "If any support required then post your query in WordPress <a href=\"http://wordpress.org/support/plugin/admin-custom-login\">Plugin Support Forum </a>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "It is really hard to continue development and support for this free plugin without contributions from users like you. If you are enjoying using our Admin Cusrom Login plugin and find it useful, then please consider to write your positive <a href=\"http://wordpress.org/support/view/plugin-reviews/admin-custom-login\"><strong>Feedback</strong></a>. Your feedback will help us to encourage and support the plugin's continued development and better user support."
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Please contribute to translate our plugin.  Contact at <code>lizarweb (at) gmail (dot) com</code>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Please use WordPress <a href=\"http://wordpress.org/support/plugin/admin-custom-login\">support forum</a> to ask any query regarding any issue."
+msgstr ""
